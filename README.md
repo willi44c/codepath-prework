@@ -12,13 +12,13 @@ Link to project: (insert your link here, should start with https://glitch.com...
 
 The following **required** functionality is complete:
 
-* [1] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [1] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [1] Game buttons each light up and play a sound when clicked. 
-* [1] Computer plays back sequence of clues including sound and visual cue for each button
-* [1] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [1] User wins the game after guessing a complete pattern
-* [1] User loses the game after an incorrect guess
+* [] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [] Game buttons each light up and play a sound when clicked. 
+* [] Computer plays back sequence of clues including sound and visual cue for each button
+* [] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [] User wins the game after guessing a complete pattern
+* [] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -26,8 +26,8 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [1] Computer picks a different pattern each time the game is played
-* [1] Player only loses after 3 mistakes (instead of on the first mistake)
+* [] Computer picks a different pattern each time the game is played
+* [] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
